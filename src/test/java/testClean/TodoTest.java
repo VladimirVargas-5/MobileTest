@@ -18,7 +18,7 @@ public class TodoTest {
         @Test
     public void GoToCreate() throws MalformedURLException {
 
-           String newTask = "Test";
+           String newTask = "TaskOne";
         mainTodo.clickCreate.click();
         createActivity.Title.type(newTask);
         createActivity.Notes.type("NoteTest");
@@ -30,7 +30,7 @@ public class TodoTest {
 
     @Test
     public void GoToSearch() throws MalformedURLException {
-        String newTask = "Test";
+        String newTask = "TaskOne";
         mainTodo.clickSearch.click();
         searchActivity.wordSearch.type(newTask);
 

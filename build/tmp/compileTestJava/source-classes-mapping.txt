@@ -1,0 +1,38 @@
+runner/MyStepdefsToDo.java
+ runner.MyStepdefsToDo
+deviceFactory/CloudDevice.java
+ deviceFactory.CloudDevice
+activity/Todo/MainTodo.java
+ activity.Todo.MainTodo
+activity/Todo/SearchActivity.java
+ activity.Todo.SearchActivity
+deviceFactory/Android.java
+ deviceFactory.Android
+testClean/CreateTest.java
+ testClean.CreateTest
+appiumControl/TextBox.java
+ appiumControl.TextBox
+testClean/TodoTest.java
+ testClean.TodoTest
+appiumControl/Label.java
+ appiumControl.Label
+deviceFactory/IDevice.java
+ deviceFactory.IDevice
+activity/List/CreateActivity.java
+ activity.List.CreateActivity
+deviceFactory/IOS.java
+ deviceFactory.IOS
+appiumControl/Button.java
+ appiumControl.Button
+helpers/LocalReport.java
+ helpers.LocalReport
+appiumControl/Control.java
+ appiumControl.Control
+activity/Todo/CreateActivity.java
+ activity.Todo.CreateActivity
+runner/Runner.java
+ runner.Runner
+sessionManager/Session.java
+ sessionManager.Session
+deviceFactory/FactoryDevice.java
+ deviceFactory.FactoryDevice

@@ -12,6 +12,9 @@ public class FactoryDevice {
             case "ios":
                 device = new IOS();
                 break;
+            case "CLOUD_DEVICE":
+                device= new CloudDevice();
+                break;
             default:
                 device= new Android();
                 break;
